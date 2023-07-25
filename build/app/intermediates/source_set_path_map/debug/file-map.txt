@@ -1,0 +1,17 @@
+com.example.google_places_example.app-jetified-window-1.0.0-beta04-0 /home/manuela/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
+com.example.google_places_example.app-jetified-annotation-experimental-1.1.0-1 /home/manuela/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.google_places_example.app-core-1.6.0-2 /home/manuela/.gradle/caches/transforms-3/7e9df2ac2213a6bd3cef0f2f27870d79/transformed/core-1.6.0/res
+com.example.google_places_example.app-jetified-play-services-base-18.0.1-3 /home/manuela/.gradle/caches/transforms-3/aba8f806953ea3dd8f794da3aeb78a12/transformed/jetified-play-services-base-18.0.1/res
+com.example.google_places_example.app-jetified-window-java-1.0.0-beta04-4 /home/manuela/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.google_places_example.app-jetified-play-services-maps-18.1.0-5 /home/manuela/.gradle/caches/transforms-3/d7f7973f000d5c8945a05a4db1417b66/transformed/jetified-play-services-maps-18.1.0/res
+com.example.google_places_example.app-jetified-play-services-basement-18.0.0-6 /home/manuela/.gradle/caches/transforms-3/f64fba6e6efbe26a4b67f791bcfc957f/transformed/jetified-play-services-basement-18.0.0/res
+com.example.google_places_example.app-debug-7 /home/manuela/Documents/google_places_flutter/google_places_example/android/app/src/debug/res
+com.example.google_places_example.app-main-8 /home/manuela/Documents/google_places_flutter/google_places_example/android/app/src/main/res
+com.example.google_places_example.app-pngs-9 /home/manuela/Documents/google_places_flutter/google_places_example/build/app/generated/res/pngs/debug
+com.example.google_places_example.app-resValues-10 /home/manuela/Documents/google_places_flutter/google_places_example/build/app/generated/res/resValues/debug
+com.example.google_places_example.app-rs-11 /home/manuela/Documents/google_places_flutter/google_places_example/build/app/generated/res/rs/debug
+com.example.google_places_example.app-mergeDebugResources-12 /home/manuela/Documents/google_places_flutter/google_places_example/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.google_places_example.app-mergeDebugResources-13 /home/manuela/Documents/google_places_flutter/google_places_example/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.google_places_example.app-merged_res-14 /home/manuela/Documents/google_places_flutter/google_places_example/build/app/intermediates/merged_res/debug
+com.example.google_places_example.app-packaged_res-15 /home/manuela/Documents/google_places_flutter/google_places_example/build/flutter_plugin_android_lifecycle/intermediates/packaged_res/debug
+com.example.google_places_example.app-packaged_res-16 /home/manuela/Documents/google_places_flutter/google_places_example/build/google_maps_flutter_android/intermediates/packaged_res/debug

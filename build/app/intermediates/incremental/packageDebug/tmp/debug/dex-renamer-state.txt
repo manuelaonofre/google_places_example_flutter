@@ -1,0 +1,4 @@
+#Tue Jul 25 14:07:54 BRT 2023
+base.0=/home/manuela/Documents/google_places_flutter/google_places_example/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
